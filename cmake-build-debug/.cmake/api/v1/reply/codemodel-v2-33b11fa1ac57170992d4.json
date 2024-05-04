@@ -15,7 +15,8 @@
 					"source" : ".",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -30,7 +31,8 @@
 					"name" : "SEGUNDO_PARCIAL",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -38,8 +40,15 @@
 			[
 				{
 					"directoryIndex" : 0,
+					"id" : "Ejercicio2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ejercicio2-Debug-4e68a0a72a5293afddde.json",
+					"name" : "Ejercicio2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "SEGUNDO_PARCIAL::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-SEGUNDO_PARCIAL-Debug-a5a9d1670a637edefac3.json",
+					"jsonFile" : "target-SEGUNDO_PARCIAL-Debug-625911eb054a0f08cbb1.json",
 					"name" : "SEGUNDO_PARCIAL",
 					"projectIndex" : 0
 				}
