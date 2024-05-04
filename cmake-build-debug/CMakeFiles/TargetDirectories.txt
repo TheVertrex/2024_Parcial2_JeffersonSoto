@@ -1,0 +1,3 @@
+C:/Users/vertr/OneDrive/Escritorio/SEGUNDO PARCIAL/cmake-build-debug/CMakeFiles/SEGUNDO_PARCIAL.dir
+C:/Users/vertr/OneDrive/Escritorio/SEGUNDO PARCIAL/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vertr/OneDrive/Escritorio/SEGUNDO PARCIAL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
